@@ -1,0 +1,1 @@
+rclcpp;sensor_msgs;tf2;tf2_ros;libignition-gazebo6-dev;libignition-plugin1-dev;libignition-sensors6-dev;libignition-transport11-dev;libignition-msgs8-dev;ros_gz_bridge;ros_gz_sim;ament_lint_auto;ament_lint_common

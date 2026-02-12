@@ -1,0 +1,1 @@
+/home/bharat/ROS-MCP/demos-ros-mcp-server/3_turtlebot_gazebo/build/turtlebot3_manipulation_gazebo/ament_cmake_environment_hooks/local_setup.bash
