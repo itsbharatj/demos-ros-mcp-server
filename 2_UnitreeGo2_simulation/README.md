@@ -1,5 +1,7 @@
 # Example 2: Unitree Go2 Simulation (Ignition Gazebo)
 
+[Usage and Installation Video](https://youtu.be/6EQpNAicpiI)
+
 This example demonstrates how to control a **Unitree Go2 Quadruped Robot** inside a physics simulation using **Ignition Gazebo (Fortress)** and the **ROS-MCP Server**.
 
 Using natural language and the `ROS-MCP server`, you can control the robot's gait, velocity, and pose, as well as inspect its sensors (Lidar, IMU).
