@@ -1,0 +1,17 @@
+# ROS 2 controller configuration for rotating Velodyne lidar
+# Used with gz_ros2_control for Gazebo Fortress
+
+controller_manager:
+  ros__parameters:
+    update_rate: 100  # Hz
+
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+
+    velodyne_position_controller:
+      type: position_controllers/JointPositionController
+
+velodyne_position_controller:
+  ros__parameters:
+    joint: leddar_base_scan_joint
+    interface_name: position
