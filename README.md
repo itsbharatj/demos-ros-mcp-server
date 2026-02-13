@@ -15,7 +15,7 @@ Each sub-folder in this repository can be treated as a standalone project with i
 
 ### 4: TurtleBot3 Simulation in Ignition Gazebo
 
-[Watch the Demo](https://youtu.be/CXA4HDUVAnM)
+[Video walkthrough and demo](https://youtu.be/CXA4HDUVAnM)
 
 
 

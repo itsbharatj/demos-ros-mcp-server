@@ -1,6 +1,6 @@
 # TurtleBot3 Simulation in Ignition Gazebo
 
-[Watch the Demo](https://youtu.be/CXA4HDUVAnM)
+[Video Walktrough and Demo](https://youtu.be/CXA4HDUVAnM)
 
 This demo provides a simulation environment for the TurtleBot3 robot using **Ignition Gazebo (Fortress)** and ROS 2. It is designed to be used with the **ROS-MCP Server** to enable LLM-controlled robotics interactions.
 
