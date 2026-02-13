@@ -2,6 +2,9 @@
 
 This example demonstrates how to control a **Tugbot mobile robot** inside a warehouse environment using **Ignition Gazebo (Fortress)** and the **ROS-MCP Server**.
 
+[Video: Installation, walk though and demo](https://youtu.be/rnea0zybCBo)
+
+
 ![Simulation_sample](images/sim.png)
 
 Using natural language and the `ROS-MCP server`, you can control and navigate the robot in the simulation, inspect its sensors (Lidar), and check its position.
